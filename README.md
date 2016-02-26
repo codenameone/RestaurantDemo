@@ -1,6 +1,6 @@
 # Restaurant Demo
 
-A simple restaurant app written in Codename One, it works on Android, iOS and others natively.
+A simple restaurant app written in [Codename One](https://www.codenameone.com/), it works on Android, iOS and others natively.
 
 You can [preview it in the browser](https://www.codenameone.com/demos/Restaurant/) using the JavaScript port of Codename One. 
 
